@@ -37,7 +37,7 @@ Client → Server → Broadcast → All Clients
 ## Project Structure
 
 .
-├── chat.cpp        # Combined server + client implementation
+├── chat.cpp       
 └── README.md
 
 ## Build
