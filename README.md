@@ -34,11 +34,6 @@ Client → Server → Broadcast → All Clients
 - 🛑 Graceful client disconnect handling
 - 💬 Username support (client-side)
 
-## Project Structure
-
-.
-├── chat.cpp       
-└── README.md
 
 ## Build
 
